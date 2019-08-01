@@ -5,7 +5,7 @@
 MegaSena Explorer 
 ----------------------------
 
-App feito com Xamarin Forms como exemplo
+App feito com Xamarin Forms com armazenamento local SQLite, consumindo WebApi's Rest 
 
 Principal:
 
